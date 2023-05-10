@@ -1,0 +1,5 @@
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandWriter/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandWriter/build/elf2uf2/CMakeFiles/edit_cache.dir
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandWriter/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandWriter/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandWriter/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
