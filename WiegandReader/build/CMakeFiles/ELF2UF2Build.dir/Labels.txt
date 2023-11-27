@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/CMakeFiles/ELF2UF2Build
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/CMakeFiles/ELF2UF2Build.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/mgonzalez506/Documents/GitHub/RaspberryPi-Pico/WiegandReader/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
