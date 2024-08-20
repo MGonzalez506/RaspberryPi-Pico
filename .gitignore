@@ -1,2 +1,4 @@
 WiFi_Connection/build/*
 WiFi_Scan/build/*
+Blink_LED_Pico_W/build/*
+Blinking_LED/build/*
