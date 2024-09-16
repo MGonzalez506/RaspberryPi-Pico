@@ -13,24 +13,19 @@ set(PICO_BOARD pico_w)
 include($ENV{PICO_SDK_IMPORT})
 
 # Paso 5: especificar el nombre del proyecto y los lenguajes
-project(WiFi_Scan C CXX ASM)
+project(blinking_led C CXX ASM)
 
 # Paso 6: inicializar el SDK de Pico
 pico_sdk_init()
 
 # Paso 7: agregar el ejecutable del proyecto
-add_executable(WiFi_Scan
-                WiFi_Scan.c
-        )
+add_executable(blinking_led blinking_led.c)
 
 # Paso 8: especificar las librerías requeridas
-target_link_libraries(WiFi_Scan 
-                        pico_stdlib
-                        pico_cyw43_arch_none
-                )
+target_link_libraries(blinking_led pico_stdlib pico_cyw43_arch_none)
 
 # Initialize the USB serial connection
-pico_enable_stdio_usb(WiFi_Scan 1)
-pico_enable_stdio_uart(WiFi_Scan 0)
+pico_enable_stdio_usb(blinking_led 1)
+pico_enable_stdio_uart(blinking_led 0)
 
-pico_add_extra_outputs(WiFi_Scan)
+pico_add_extra_outputs(blinking_led)
